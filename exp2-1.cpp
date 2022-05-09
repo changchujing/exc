@@ -1,0 +1,10 @@
+print("请输入2个整数")
+a=int(input("第一个整数="))
+print(a) 
+b=int(input("第二个整数="))
+print(b)
+c=a**2
+d=b**2
+e=c+d
+print("平方合并=")
+print(e)
