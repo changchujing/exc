@@ -7,3 +7,4 @@ print(a)
 b=3.14**r
 print("面积")
 print(b)
+
